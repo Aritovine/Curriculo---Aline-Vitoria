@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+img {
+    width: 60px;
+    height: 60px;
+    border-radius: 200%;
+    border: 5px solid rgb(243, 3, 143);
+    margin-top: 100%;
+    align-self: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: #fd0882;
+
+}
+
+.bnt-voltar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #8f3680;
+    color: #fd0882;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.bnt-voltar:hover {
+    background-color: #840e88;
+
+}

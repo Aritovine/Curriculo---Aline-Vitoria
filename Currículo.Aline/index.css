@@ -1,0 +1,65 @@
+body {
+    color: white;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: rgb(155, 1, 129);
+    text-decoration: none;
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(243, 3, 143);
+
+}
+
+h1, h2, h3 {
+    color:rgb(155, 1, 129);
+   
+
+}
+
+h3 {
+    text-align: center;
+
+
+}
+
+ul {
+    list-style-type: square;
+    margin: 20px;
+    padding: 10px;
+}
+
+li {
+    color: rgb(155, 1, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color:rgb(155, 1, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    height: 4px;
+    border: none;
+    background: linear-gradient(to right, #8f3680, #fd0882);
+
+}
+
+

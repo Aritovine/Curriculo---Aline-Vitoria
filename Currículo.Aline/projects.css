@@ -1,0 +1,44 @@
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(219, 27, 187);
+
+}
+
+body {
+    background-color: pink;
+
+}
+hr {
+height: 4px;
+    border: none;
+    background: linear-gradient(to right, #8f3680, #fd0882);
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    margin-top: 20px;
+
+}
+
+div {
+    text-align: center;
+    text-decoration: line-through;
+
+}
+
+.bnt-voltar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #8f3680;
+    color: #fd0882;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.bnt-voltar:hover {
+    background-color: #840e88;
+
+}
